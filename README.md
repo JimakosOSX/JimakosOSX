@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimakosOSX / Dimitris, 
+- 👋 Hi, I’m Dimitris, 
 - 👀 I’m interested in learning new technologies. Currently mainly working with Ansible and Terraform
 - 🌱 I’m currently learning Ruby on my free time
 - 💞️ I’m looking to collaborate on Linux-related projects!
