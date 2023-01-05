@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dimitris, 
-- 👀 I’m interested in learning new technologies. Working with Ansible and Terraform
+- 👀 I’m interested in learning new technologies. My main projects are written in Ansible and Terraform
 - 🌱 I’m learning Ruby on my free time
 - 💞️ I’m looking to collaborate on Linux-related projects!
 - 📫 Reach me on jim@clusters.gr
